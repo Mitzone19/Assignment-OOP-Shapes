@@ -1,5 +1,15 @@
 
-@
-java:S3457	"%String contains no format specifiers.(Šª„ıÿÿÿÿ
-E	java:S106	"+Replace this use of System.out by a logger.(Šª„ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ğö¶üÿÿÿÿ
+s
+java:S1192	"VDefine a constant instead of duplicating this literal " iar perimetrul este " 8 times.(çÇÁ8À½ï÷º1
+G	java:S106	"+Replace this use of System.out by a logger.(çÇÁ8Å½ï÷º1
+F	java:S106
+"+Replace this use of System.out by a logger.(±©±`8Æ½ï÷º1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Æ½ï÷º1
+L	java:S106"+Replace this use of System.out by a logger.(İ£ãºşÿÿÿÿ8Æ½ï÷º1
+G	java:S106"+Replace this use of System.out by a logger.(“‡¾ÿ8Ç½ï÷º1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ç½ï÷º1
+E	java:S106"+Replace this use of System.out by a logger.(ƒ´D8È½ï÷º1
+G	java:S106"+Replace this use of System.out by a logger.(×ÁŒº8É½ï÷º1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8É½ï÷º1
+G	java:S106""+Replace this use of System.out by a logger.(Ä†¦¶8ããğ÷º1
+L	java:S106#"+Replace this use of System.out by a logger.(Çœ´öıÿÿÿÿ8ããğ÷º1
