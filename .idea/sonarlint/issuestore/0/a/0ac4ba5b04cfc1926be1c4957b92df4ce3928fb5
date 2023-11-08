@@ -1,0 +1,13 @@
+
+‚
+java:S4165"eRemove this useless assignment; "lungime" already holds the assigned value along all execution paths.(òÖõ¬8Ö¥Ì÷º1
+
+java:S4165"dRemove this useless assignment; "latime" already holds the assigned value along all execution paths.(™¾ÅÎ8Ö¥Ì÷º1
+F
+java:S1905")Remove this unnecessary cast to "double".(·ı¾ğ8ˆô»÷º1
+F
+java:S1905")Remove this unnecessary cast to "double".(Í‹ç–8ˆô»÷º1
+L
+java:S1656"/Remove or correct this useless self-assignment.(òÖõ¬8Ù¥Ì÷º1
+L
+java:S1656"/Remove or correct this useless self-assignment.(™¾ÅÎ8Ù¥Ì÷º1

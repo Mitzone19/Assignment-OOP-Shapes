@@ -1,0 +1,11 @@
+
+
+java:S4165
+"dRemove this useless assignment; "latura" already holds the assigned value along all execution paths.(ú¥«8»Ê÷º1
+F
+java:S1905")Remove this unnecessary cast to "double".(ÍºŞ„8Ÿ»Ê÷º1
+K
+java:S1905")Remove this unnecessary cast to "double".(¸È˜¾ùÿÿÿÿ8 »Ê÷º1
+L
+java:S1656
+"/Remove or correct this useless self-assignment.(ú¥«8 »Ê÷º1

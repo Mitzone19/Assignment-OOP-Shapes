@@ -1,0 +1,9 @@
+
+
+java:S4165	"bRemove this useless assignment; "raza" already holds the assigned value along all execution paths.(ÇØÔ˜8ã¢Æ÷º1
+K
+java:S1905")Remove this unnecessary cast to "double".(ÅıŸÿÿÿÿÿ8ª¾Å÷º1
+F
+java:S1905")Remove this unnecessary cast to "double".(åÕáÓ8ª¾Å÷º1
+L
+java:S1656	"/Remove or correct this useless self-assignment.(ÇØÔ˜8å¢Æ÷º1
